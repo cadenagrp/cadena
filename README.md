@@ -1,7 +1,7 @@
 <p align="center">
   <h3 align="center">Cadena</h3>
   <p align="center">
-    Specializing in diversified digital asset investing via a Digital Asset Fund of Funds.
+    Specializing in diversified digital asset investing via a digital asset fund of funds.
   <br>
   <br>
     <a href="https://github.com/cadenainv"><strong>Explore Cadena GitHub</strong></a>
