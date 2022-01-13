@@ -1,8 +1,9 @@
 <p align="center">
   <h3 align="center">Cadena</h3>
   <p align="center">
-    Cadena Asset Management
+    Cadena
   <br>
+    Cadena is an Asset Management Company specializing in diversified digital asset investing via a Digital Asset Fund of Funds.
     <a href="https://github.com/cadenainv"><strong>Explore Cadena GitHub</strong></a>
   <br>
   <br>
